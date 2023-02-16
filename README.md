@@ -1,4 +1,4 @@
 # JumpyPenguin
 
-iOS Swift Tap to Play Game
-Similar to "flappy bird"
+- iOS Swift Tap to Play Game
+- Similar to "flappy bird"
